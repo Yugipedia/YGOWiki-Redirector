@@ -1,7 +1,7 @@
 {
   "name": "YGOWiki Redirector",
   "author": "proEndreeper, Modified by penguinstyles to work for Yugipedia",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Redirects YGO Wikia/Fandom requests to Yugipedia",
   "permissions": ["storage",
                   "*://ygo.wikia.com/*",
